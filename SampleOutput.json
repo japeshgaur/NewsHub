@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "Joffe to step down as CEO of Sorbet, Sportsmans Warehouse owner - as group receives takeover bid",
+            "description": "One of SA’s most prominent entrepreneurs, Joffe founded the conglomerate Bidvest in 1989.",
+            "url": "https://www.news24.com/fin24/Companies/Retail/brian-joffe-to-step-down-as-ceo-of-sorbet-sportsmans-warehouse-owner-20211014",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10598/0269ce0db92a43a8a3546b77f8cb096b.jpg",
+            "publishedAt": "2021-10-14T10:18:18+00:00",
+            "content": "Brian Joffe will step down as CEO of the company he founded, Long4Life, which owns the beauty salon chain Sorbet, as well as Sportsmans Warehouse. Joffe will give up the job at the end of February ne… [+2140 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": null,
+            "title": "Rainbow Six Siege: Let's Play Doktor's Curse With Tips & Tricks Ft. Interro - IGN",
+            "description": "IGN On the Six is back with a special let's play of Tom Clancy's Rainbow Six Siege's limited in-game event for Halloween: Doktor's Curse. Esports commentator Parker \"Interro\" Mackay is back with some special tips, tricks, and screams for Doktor's Curse. The f…",
+            "url": "https://www.ign.com/videos/rainbow-six-siege-lets-play-doktors-curse-with-tips-tricks-ft-interro",
+            "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2021/10/8/lpoo-1633728580752.jpg?width=1280",
+            "publishedAt": "2021-10-13T15:52:32.9060425Z",
+            "content": "Did you enjoy this video?"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Owen S. Good",
+            "title": "Madden NFL 22’s Scouting update: What you need to know",
+            "description": "EA Sports designers wanted Scouting to be more than a wall of text supporting Madden NFL 22’s off-season draft. Producer Tom Lischke said they tried to make it a core gameplay loop integrated with weekly tasks of the regular season.",
+            "url": "https://www.polygon.com/22723365/madden-nfl-22-scouting-update-patch-notes-october-2022",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JhS1yeQj0p-FY7vjjz29RlIqFNc=/0x0:1849x968/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22664675/Diggs.jpg",
+            "publishedAt": "2021-10-13T13:50:00Z",
+            "content": "Madden NFL 22s latest patch is a big one. In fact, its hard to remember the last time a post-release title update added an all-new gameplay loop, to the staple Franchise mode, that is this detailed.\r… [+6067 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Abbey Mastracco",
+            "title": "Cheating Scandals, Injuries and Slumps Don't Matter: The Astros Are Inevitable",
+            "description": "A funny thing happens when sports teams have a long periods of sustained success: They become villains.       The  Houston Astros  are amid the most dominant stretch in club history...",
+            "url": "https://bleacherreport.com/articles/2949326-cheating-scandals-injuries-and-slumps-dont-matter-the-astros-are-inevitable",
+            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/918/082/hi-res-d2bc4e6f3844670f0bbd9025d4dfdbbf_crop_exact.jpg?w=1200&h=1200&q=75",
+            "publishedAt": "2021-10-13T01:49:31Z",
+            "content": "Nam Y. Huh/Associated Press\r\nA funny thing happens when sports teams have a long periods of sustained success: They become villains. \r\nThe Houston Astros are amid the most dominant stretch in club hi… [+6345 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
